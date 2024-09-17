@@ -1,4 +1,4 @@
 # To-Do-List
 
 Hey, 
-hier folt meine erste To do list.
+hier folgt meine erste To do list.
